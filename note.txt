@@ -1,0 +1,7 @@
+台風コンディション１、１C,１E, １REC, を発令している場合、休校です。
+
+Condition 1(normal)  12時間以内に５０ノットの突風の可能性
+Condition 1C (caution)    35-49ノットかそれ以上の強風
+Condition 1E (emergency)   50ノットかそれ以上の強風
+Condition 1REC (recovery) 引き続き自宅待機
+
