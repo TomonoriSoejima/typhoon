@@ -15,7 +15,7 @@ This script is designed to scrape weather images from `https://www.kadena.af.mil
 1. Install the required Python packages:
     
     ```bash
-    pip install beautifulsoup4 requests pillow google-cloud-vision
+    pip3 install beautifulsoup4 requests pillow google-cloud-vision
     ```
     
 2. Ensure you have setup Google Cloud SDK and have `vision_v1.ImageAnnotatorClient()` credentials configured.
@@ -31,7 +31,7 @@ This script is designed to scrape weather images from `https://www.kadena.af.mil
 Run the script using Python:
 
 ```bash
-python all.py
+python3 all.py
 ```
 
 ### Functions:
