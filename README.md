@@ -31,7 +31,7 @@ This script is designed to scrape weather images from `https://www.kadena.af.mil
 Run the script using Python:
 
 ```bash
-python your_script_name.py
+python all.py
 ```
 
 ### Functions:
