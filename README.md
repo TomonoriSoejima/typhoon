@@ -49,17 +49,7 @@ python3 all.py
 
 The website structure or the specific image index might change over time. It is advisable to periodically check the script's functionality. Ensure you have the necessary permissions to scrape data from the mentioned website. This script is for educational purposes only.
 
-### License:
 
-MIT (or any appropriate license you want to put)
-
-### Contributing:
-
-If you have suggestions to improve the script or find any issues, feel free to contribute or open an issue.
-
-### Credits:
-
-[Your Name / Your Organization / or leave it blank if you prefer]
 
 * * *
 
